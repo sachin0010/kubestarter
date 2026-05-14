@@ -100,6 +100,9 @@ http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kube
 ```
 Use the token from the previous step to log in.
 
+<img width="1897" height="987" alt="image" src="https://github.com/user-attachments/assets/12002be6-bb17-47d8-94c4-0e728293a7d7" />
+
+
 ## 5. Deleting the Cluster
 Delete the KIND cluster:
 ```bash
